@@ -1,5 +1,31 @@
 ﻿<Properties StartupConfiguration="{B594A41F-250E-4F96-9194-63588F4E4B0D}|Default">
-  <MonoDevelop.Ide.ItemProperties.operati__Vladimir PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.ClassLibrary FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="operati_Vladimir/Program.cs">
+    <Files>
+      <File FileName="ClassLibrary/BlackjackHighest.cs" Line="15" Column="34" />
+      <File FileName="ClassLibrary/FindFarthestNode.cs" Line="8" Column="47" />
+      <File FileName="ClassLibrary/SimplePassword.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary/TreeConstructor.cs" Line="20" Column="33" />
+      <File FileName="operati_Vladimir/Program.cs" Line="45" Column="81" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="operati_Vladimir" expanded="True">
+            <Node name="ClassLibrary" expanded="True" selected="True" />
+            <Node name="operati_Vladimir" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.operati__Vladimir PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
